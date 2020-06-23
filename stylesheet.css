@@ -1,19 +1,19 @@
 .contents-item {
   float:left;
-  padding:33px 20px 33px 20px
+  padding:33px 20px 33px 10px
   margin-right:20px;
-  margin-left:40px;
+  margin-left:50px;
 }
 
-.contents-item h3{
+.contents-item h4{
   font-size: 16px;
   margin-top: 30px;
 }
 .contents-item p1{
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 30px;
 }
 .contents-item p2{
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 30px;
 }
