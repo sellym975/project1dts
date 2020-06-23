@@ -1,6 +1,6 @@
 .contents-item {
   float:left;
-  padding:33px 50px 33px 5px
+  padding:33px 50px 33px 55px
   margin-right:20px;
   margin-left:50px;
 }
@@ -10,10 +10,10 @@
   margin-top: 30px;
 }
 .contents-item p1{
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 10px;
 }
 .contents-item p2{
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 10px;
 }
