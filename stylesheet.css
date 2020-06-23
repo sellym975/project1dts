@@ -8,7 +8,11 @@
   font-size: 14px;
   margin-top: 30px;
 }
-.contents-item p{
+.contents-item p1{
+  font-size: 7px;
+  margin-top: 30px;
+}
+.contents-item p2{
   font-size: 7px;
   margin-top: 30px;
 }
